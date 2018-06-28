@@ -101,7 +101,6 @@ namespace Pong
             Console.SetCursorPosition(0, 0);
             for (int i = 0; i < 10; i++)
                 Console.WriteLine("|");
-
             for (int i = 0; i < 10; i++)
             {
                 Console.SetCursorPosition(28, i);
